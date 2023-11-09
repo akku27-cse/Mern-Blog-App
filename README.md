@@ -2,10 +2,9 @@
 
 post man test
 1
-```shell
+
 ![registerPostman](https://github.com/akku27-cse/Mern-Blog-App/assets/115920400/efcf6187-67a5-4e00-93ce-8597c69d294c)
 
-```
 
 
 
